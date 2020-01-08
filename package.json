@@ -1,0 +1,19 @@
+{
+    "name": "vineyardink",
+    "description": "Vineyard Ink",
+    "author": {
+        "name": "Andrew Vojak",
+        "email": "andrew.vojak@gmail.com",
+        "url": "https://avojak.com"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "ejs-lint": "^0.3.0",
+        "express": "4.17.1"
+    },
+    "private": true,
+    "license": "MIT"
+}
